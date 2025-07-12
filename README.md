@@ -1,9 +1,9 @@
-# SQL
+
 # SQL - Data Analysis
 # Pizza Sales Analysis Project
 
 ## Overview
-@@ -13,17 +13,17 @@
+This project presents an in-depth analysis of a pizza sales dataset for a fictional pizza chain. The analysis leverages SQL to extract key business insights, understand performance trends, and support data-driven decision-making.
 
 ## Features
 * Comprehensive SQL queries for data aggregation and analysis.
